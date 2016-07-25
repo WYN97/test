@@ -12,6 +12,12 @@
 
 static id _instancetype;
 +(instancetype)sharedNetworlTool{
+    
+    
+    
+    
+    
+    
 
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
